@@ -1,0 +1,17 @@
+E:\4.RT\Primjenjena projekt\Primjenjena projekt\bin\Debug\net6.0-windows\Primjenjena projekt.exe
+E:\4.RT\Primjenjena projekt\Primjenjena projekt\bin\Debug\net6.0-windows\Primjenjena projekt.deps.json
+E:\4.RT\Primjenjena projekt\Primjenjena projekt\bin\Debug\net6.0-windows\Primjenjena projekt.runtimeconfig.json
+E:\4.RT\Primjenjena projekt\Primjenjena projekt\bin\Debug\net6.0-windows\Primjenjena projekt.dll
+E:\4.RT\Primjenjena projekt\Primjenjena projekt\bin\Debug\net6.0-windows\Primjenjena projekt.pdb
+E:\4.RT\Primjenjena projekt\Primjenjena projekt\obj\Debug\net6.0-windows\Primjenjena projekt.csproj.AssemblyReference.cache
+E:\4.RT\Primjenjena projekt\Primjenjena projekt\obj\Debug\net6.0-windows\Primjenjena_projekt.Form1.resources
+E:\4.RT\Primjenjena projekt\Primjenjena projekt\obj\Debug\net6.0-windows\Primjenjena projekt.csproj.GenerateResource.cache
+E:\4.RT\Primjenjena projekt\Primjenjena projekt\obj\Debug\net6.0-windows\Primjenjena projekt.GeneratedMSBuildEditorConfig.editorconfig
+E:\4.RT\Primjenjena projekt\Primjenjena projekt\obj\Debug\net6.0-windows\Primjenjena projekt.AssemblyInfoInputs.cache
+E:\4.RT\Primjenjena projekt\Primjenjena projekt\obj\Debug\net6.0-windows\Primjenjena projekt.AssemblyInfo.cs
+E:\4.RT\Primjenjena projekt\Primjenjena projekt\obj\Debug\net6.0-windows\Primjenjena projekt.csproj.CoreCompileInputs.cache
+E:\4.RT\Primjenjena projekt\Primjenjena projekt\obj\Debug\net6.0-windows\Primjenjena projekt.dll
+E:\4.RT\Primjenjena projekt\Primjenjena projekt\obj\Debug\net6.0-windows\refint\Primjenjena projekt.dll
+E:\4.RT\Primjenjena projekt\Primjenjena projekt\obj\Debug\net6.0-windows\Primjenjena projekt.pdb
+E:\4.RT\Primjenjena projekt\Primjenjena projekt\obj\Debug\net6.0-windows\Primjenjena projekt.genruntimeconfig.cache
+E:\4.RT\Primjenjena projekt\Primjenjena projekt\obj\Debug\net6.0-windows\ref\Primjenjena projekt.dll
